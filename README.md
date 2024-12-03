@@ -1,1 +1,1 @@
-# Projekat---Osnovi-softverskog-in-injerstva---Sistem-za-naplatu-parkinga
+# Projekat---Osnovi-softverskog---inzinjerstva---Sistem-za-naplatu-parkinga
